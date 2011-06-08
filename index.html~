@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <title>solenskiner/openin @ GitHub</title>
+    <link rel="stylesheet" type="text/css" href="loqhness.css" />
+  </head>
+  <body>
+
+    <a href="http://github.com/solenskiner/openin">
+      <img style="position: absolute; top: 0; right: 0; border: 0;"
+        src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
+        alt="Fork me on GitHub" />
+    </a>
+
+    <div class="container">
+
+      <h1>
+        <a href="http://github.com/solenskiner/openin">openin</a>
+        <span class="small">
+          by
+          <a href="http://solenskiner.github.com/">solenskiner</a>
+        </span>
+      </h1>
+
+      <div>
+        <div style="float: right;">
+          <a href="screenshot.jpg"><img src="screenshot.jpg" border="0" width="300" style="padding-left:20px;"></a>
+        </div>
+        <div class="description">
+          An application for opening links from other applications, if you use multiple browsers. Pops up a dialog to choose browser.
+          <br /><br />
+          Set it as default browser in your Desktop Environment, or if you have none, export BROWSER=/path-to-executable/openin in your .xinitrc or .xprofile.
+          <br /><br />
+Currently supports: firefox, chrome/chromium and opera. Easely extendable; just edit findbrowser.cpp and recompile.
+        </div>
+      </div>
+
+      <div>
+        <div style="float: right;">
+          <h2>Documentation</h2>
+          <a href="https://github.com/solenskiner/loqhness/raw/master/README">README</a><br />
+          <a href="https://github.com/solenskiner/openin/raw/master/LICENSE">LICENCE</a><br />
+          <a href="Doxygen/index.html">Doxygen</a> auto-generated source documentation.<br />
+
+          <h2>Dependencies:<span class="small"> qt</span></h2>
+
+          <h2>Author:<span class="small"> <a href="mailto:solenskiner@gmail.com">solenskiner</a></span></h2>
+        </div>
+
+        <div>
+          <h2>Download</h2>
+          You can download this project in either
+          <a href="http://github.com/solenskiner/openin/zipball/master">zip</a> or
+          <a href="http://github.com/solenskiner/openin/tarball/master">tar</a> formats.
+          <br />
+          You can also clone the project with <a href="http://git-scm.com">Git</a> by running:<br />
+          <div class="terminal" style="width: 310px;">
+            > git clone <a href="git://github.com/solenskiner/openin">git://github.com/solenskiner/loqhness</a>
+          </div>
+
+          <h2>Install</h2>
+          Compile the project by running:<br />
+          <div class="terminal" style="width: 310px;">
+            > qmake<br />
+            > ./configure<br />
+            > make
+          </div>
+        </div>
+      </div>
+
+      <div class="footer">
+        copyleft 2010 solenskiner<br />
+        some rights reserved.
+      </div>
+
+    </div>
+  </body>
+</html>

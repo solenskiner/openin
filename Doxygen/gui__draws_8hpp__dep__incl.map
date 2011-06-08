@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$gui__draws_8cpp.html" title="gui_draws.cpp" alt="" coords="5,83,109,112"/>
+<area shape="rect" id="node5" href="$gui__main_8hpp.html" title="gui_main.hpp" alt="" coords="219,237,317,267"/>
+<area shape="rect" id="node10" href="$gui__tab__board_8hpp.html" title="gui_tab_board.hpp" alt="" coords="209,83,337,112"/>
+<area shape="rect" id="node15" href="$gui__tab__player_8hpp.html" title="gui_tab_player.hpp" alt="" coords="404,83,535,112"/>
+<area shape="rect" id="node23" href="$gui__tab__player_8cpp.html" title="gui_tab_player.cpp" alt="" coords="608,160,739,189"/>
+<area shape="rect" id="node7" href="$gui__main_8cpp.html" title="gui_main.cpp" alt="" coords="219,315,317,344"/>
+<area shape="rect" id="node13" href="$gui__tab__board_8cpp.html" title="gui_tab_board.cpp" alt="" coords="235,160,363,189"/>
+<area shape="rect" id="node17" href="$gui__tab__overview_8hpp.html" title="gui_tab_overview.hpp" alt="" coords="437,160,584,189"/>
+<area shape="rect" id="node20" href="$gui__tab__overview_8cpp.html" title="gui_tab_overview.cpp" alt="" coords="437,237,584,267"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$eval__board_8c.html" title="eval_board.c" alt="" coords="5,83,101,112"/>
+<area shape="rect" id="node5" href="$eval__equity_8c.html" title="eval_equity.c" alt="" coords="125,83,224,112"/>
+<area shape="rect" id="node7" href="$eval__single_8c.html" title="eval_single.c" alt="" coords="248,83,347,112"/>
+<area shape="rect" id="node9" href="$gui__draws_8cpp.html" title="gui_draws.cpp" alt="" coords="371,83,475,112"/>
+<area shape="rect" id="node11" href="$parse__simple_8h.html" title="parse_simple.h" alt="" coords="499,83,608,112"/>
+<area shape="rect" id="node19" href="$parse__simple_8c.html" title="parse_simple.c" alt="" coords="643,160,752,189"/>
+<area shape="rect" id="node21" href="$misc__helpers_8c.html" title="misc_helpers.c" alt="" coords="683,83,792,112"/>
+<area shape="rect" id="node13" href="$gui__main_8cpp.html" title="gui_main.cpp" alt="" coords="213,160,312,189"/>
+<area shape="rect" id="node15" href="$gui__tab__board_8cpp.html" title="gui_tab_board.cpp" alt="" coords="336,160,464,189"/>
+<area shape="rect" id="node17" href="$gui__tab__player_8cpp.html" title="gui_tab_player.cpp" alt="" coords="488,160,619,189"/>
+</map>
